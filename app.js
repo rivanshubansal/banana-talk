@@ -34,3 +34,4 @@ btnTranslate.addEventListener("click", clickHandler)
 
 
 // https://repl.it/@tanaypratap/lessonfourapi
+// https://github.com/tanaypratap/teamtanay.jobchallenge.dev/issues/232
